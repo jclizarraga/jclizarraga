@@ -1,10 +1,9 @@
 ## Welcome to my profile
 
-My name is Juan Carlos
-I have 22 years old
-I like Programming and I upload ALL my projects.
+* Name is Juan Carlos
+* Age: 22
+* Hobbies: Programmin, watch series, Study & Read
 * 🇲🇽
-* My hobbies are watch series and study any topic (mostly related to programming)
 
 ### My Skills
 <p align="center">
