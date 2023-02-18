@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my profile
 
-<!--
-**jclizarraga/jclizarraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Juan Carlos
+I have 22 years old
+I like Programming and I upload ALL my projects.
+* 🇲🇽
+* My hobbies are watch series and study any topic (mostly related to programming)
 
-Here are some ideas to get you started:
+### My Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me:
+
+<a href="mailto:jclizarraga02@icloud.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
