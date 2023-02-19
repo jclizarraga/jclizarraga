@@ -1,7 +1,6 @@
 ## Welcome to my profile
 
-Hello, I'm Ityoup
-
+Hello, I'm Juan
 Currently working as a software developer
 
 * Name: Juan Carlos
