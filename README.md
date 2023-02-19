@@ -1,8 +1,7 @@
 ## Welcome to my profile
 
 Hello, I'm Juan
-Currently working as a software developer
-
+Currently working as web developer
 * Name: Juan Carlos
 * Age: 22
 * Hobbies: Programming, watch series, Study & Read
